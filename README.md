@@ -78,6 +78,7 @@ In the following categories the most common dog breed can be found below for res
 [7] https://twitter.com/dog_rates
 
 Other References:
+
 [8] https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/
 
 [9] https://campus.datacamp.com/courses/analyzing-social-media-data-in-python/processing-twitter-text?ex=4
