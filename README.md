@@ -1,4 +1,4 @@
-# Twitter-Data-Analysis-WeRateDogs-
+# Twitter-Data-Analysis-WeRateDogs- Data Wrangling Project
 Following files are included in this repository:
 
 1. wrangle_act.ipynb: code for gathering, assessing, cleaning, analyzing, and visualizing data
