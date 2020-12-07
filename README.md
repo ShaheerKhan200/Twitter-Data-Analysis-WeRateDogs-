@@ -64,15 +64,24 @@ In the following categories the most common dog breed can be found below for res
 ## References
 
 [1] https://stackoverflow.com/questions/21702342/creating-a-new-column-based-on-if-elif-else-condition
+
 [2] https://stackoverflow.com/questions/19937362/python-pandas-filter-string-data-based-on-its-string-length
+
 [3] https://www.dataquest.io/blog/tutorial-add-column-pandas-dataframe-based-on-if-else-condition/
+
 [4] https://stackoverflow.com/questions/17071871/how-to-select-rows-from-a-dataframe-based-on-column-values
+
 [5] https://re-thought.com/pandas-value_counts/
+
 [6] https://en.wikipedia.org/wiki/WeRateDogs
+
 [7] https://twitter.com/dog_rates
 
 Other References:
 [8] https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/
+
 [9] https://campus.datacamp.com/courses/analyzing-social-media-data-in-python/processing-twitter-text?ex=4
+
 [10] https://www.w3schools.com/python/python_regex.asp
+
 [11] https://stackoverflow.com/questions/36536495/capitalized-words-with-regular-expression?rq=1
