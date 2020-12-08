@@ -35,8 +35,11 @@ Following Variables were used in the analysis:
 ## Summary of Findings
 
 > There is a strong positive relationship between retweet counts and favorite counts.
+
 > There is a weak positive/no relationship between retweet counts and numerator ratings.
+
 > Puppo stage seems to be the most common highly rated dog stage whereas pupper seems to be the most common low rated dog stage.
+
 > Most Common Dog Stage: pupper being the most common followed by, puppo, doggo and with floofer being the least common dog stage.
 
 In the following categories the most common dog stage can be found below for respective Retweet Count Classification Categories:
