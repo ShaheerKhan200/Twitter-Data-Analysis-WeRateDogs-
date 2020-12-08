@@ -55,6 +55,7 @@ In the following categories the most common dog stage can be found below for res
 > * Low Favorite Count: Pupper (Most Common) and Doggo (Least Common)
 
 > Most Common Dog Breed: Golden Retriever being the most common followed by, Pembroke, Pug, Pomeranian, Labrador Retriever and with Samoyed being the least common dog breed.
+
 > Pembroke breed seems to be the most common highly rated dog breed whereas Pug seems to be the most common low rated dog breed.
 
 In the following categories the most common dog breed can be found below for respective Favorite Count Classification Categories:
